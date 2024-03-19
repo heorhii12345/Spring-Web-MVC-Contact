@@ -1,0 +1,5 @@
+-- credits for images:
+-- contacts-list.png found from https://www.flaticon.com/free-icon/contact-list_2648554
+-- office.jpg taken from https://thebusinessplace.com/page/2/
+-- contact.png taken from https://www.iconsdb.com/black-icons/contacts-icon.html, "favicon.ico" is a
+-- resized version of "contact.png".
